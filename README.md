@@ -3,7 +3,7 @@ So, you wanna learn how to write the code that runs Bitcamp? You've come to the 
 
 ## 🗺 Repository Roadmap
 
-- [`our-tech-stack`](/tech-stack): Overview of the dev projects that run Bitcamp
+- [`our-tech-stack/`](/tech-stack): Overview of the dev projects that run Bitcamp
 - [`dev-environments/`](/dev-environments): Set up your text editor and command line like a 1337 haxor
 - [`vue/`](/vue): Learn to create stylish frontends with Vue.js
 - [`serverless/`](/serverless): Become a backend pro with Node.js and Serverless
