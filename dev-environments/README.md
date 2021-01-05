@@ -1,5 +1,5 @@
 # 🧰 Setting Up Your Dev Environment
-While there are many ways to setup and customize your development environment, we'll walk through a 
+While there are many ways to setup and customize your development environment, we'll walk through one recommended setup.
 
 ## Recommended Setup
 ### Text Editor
