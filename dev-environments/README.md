@@ -5,7 +5,7 @@ While there are many ways to setup and customize your development environment, w
 ### Text Editor
 Install the [VSCode](https://code.visualstudio.com/) text editor.
 
-- You can open files/folders using VSCode using the `code <file>` command.
+- In terminal, you can open files/folders in VSCode using the `code <file>` command.
 - **Recommended extensions**
   - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): A linter for JS files
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): A code formatter (auto-formats spaces, tabs, etc.)
