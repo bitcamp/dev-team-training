@@ -1,2 +1,8 @@
+# Serverless
+.serverless
+
+# npm
+node_modules
+
 # VSCode
 .vscode
